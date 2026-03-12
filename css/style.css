@@ -1,0 +1,6 @@
+#grid-services{
+    display: grid;
+    grid-template-columns: repeat(3,1fr); /* 3 colonnes de taille égale */
+    gap: 20px;
+    padding: 40px;
+}
